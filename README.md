@@ -42,7 +42,9 @@ At the beginning, I wanted to understand the data better. These are the findings
 - 1.5% of the most proliferate users (measured by the number of videos uploaded) generated 52.66% of content. Those most proliferate users receive more upvotes on average
 
 - Videos posted on weekends and holidays receive more upvotes 
-<img src="weekend_upvotes.png" alt="Cover" width="50%"/> <img src="holidays_upvotes.png" alt="Cover" width="50%"/> 
+
+<img src="weekend_upvotes.png" alt="Cover" width="50%"/> 
+<img src="holidays_upvotes.png" alt="Cover" width="50%"/> 
 
 As a result of EDA, I created additional features for the predictive modeling algorithms.
 
