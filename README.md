@@ -35,9 +35,12 @@ The problem that I decided to work on was a predictive modeling one. In particul
 At the beginning, I wanted to understand the data better. These are the findings from this stage of the project:
 - Distribution over up_votes follows power law distribution. Most of the content generates only a few upvotes. There are some pieces that attract more positive engagement, however only very few garnered virality and amassed an outstanding number of upvotes. In fact, 75th percentile on up_votes variable is equal to only 16 while the maximum is 21,253. 
 <img src="up_votes_dist.png" alt="Cover" width="50%"/>
+
 - +18 content generates less upvotes 
 <img src="18plus_upvotes.png" alt="Cover" width="50%"/>
+
 - 1.5% of the most proliferate users (measured by the number of videos uploaded) generated 52.66% of content. Those most proliferate users receive more upvotes on average
+
 - Videos posted on weekends and holidays receive more upvotes 
 <img src="weekend_upvotes.png" alt="Cover" width="50%"/> <img src="holidays_upvotes.png" alt="Cover" width="50%"/> 
 
